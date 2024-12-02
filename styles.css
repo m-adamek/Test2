@@ -1,0 +1,54 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+h2 {
+    color: #444;
+}
+
+/* Links */
+a {
+    color: #da1af3;
+    text-decoration: none;
+}
+
+a:hover {
+    background: blue;
+}
+
+
+
+/* Home Page Styling */
+
+
+
+
+
+/* Data Page Styling */
+
+
+
+
+
+/* Image Gallery Page Styling */
+
+
+
+
+
+/* Form Page Styling */
+
+
+
+
+
+/* Author Page Styling */
