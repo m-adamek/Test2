@@ -64,6 +64,30 @@ header {
 
 
 /* Data Page Styling */
+table {
+    width: 100%;
+    margin: 20px 0;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+}
+.data-header {
+    text-align: center;
+    margin: 1cm;
+}
 
 
 
