@@ -76,6 +76,17 @@ header {
 
 
 /* Form Page Styling */
+h1{
+ text-align: center;
+ margin-bottom: 1cm;
+}
+input {
+    background-color: rgb(0, 0, 255); 
+}
+button{
+    background-color: darkorange;
+    margin: 0.5cm;
+}
 
 
 
