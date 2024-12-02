@@ -112,3 +112,27 @@ button{
 
 
 /* Author Page Styling */
+h1{
+    text-align: center;
+    margin-bottom: 1cm;
+}
+
+
+
+ol {
+    list-style-type: upper-alpha; /* Letter numbering (A, B, C, ...) */
+    font-size: 30px;
+    list-style-position:inside;
+    text-align: justify;
+    font-weight: bold; /* Bold text */
+    border: 2px solid black; /* Box around the list */
+    padding: 10px; /* Space inside the box */
+    width: fit-content ; /* Adjust the width of the box to fit the content */
+    margin: 10px auto; /* Center the list horizontally on the page */
+    
+  }
+  
+.links {
+    text-align: center;
+}
+  
