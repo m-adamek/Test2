@@ -89,6 +89,25 @@ td {
 
 
 /* Image Gallery Page Styling */
+.image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1cm;
+    padding: 20px;
+}
+
+.image-gallery img {
+    width: 200px;
+    height: 200px;
+    border: 10px solid #7c7c7c;
+    box-sizing: border-box;
+}
+
+.image-header {
+    text-align: center;
+    margin: 1cm;
+}
 
 
 
