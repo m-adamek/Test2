@@ -1,0 +1,24 @@
+{
+    "Software 1": {
+        "name": "macOS",
+        "users in mln": 100.4,
+        "year": 2001,
+        "is_popular": true
+
+    },
+    "Software 2": {
+        "name": "Windows",
+        "users in mln": 1600,
+        "year": 1985,
+        "is_popular": true
+
+    },
+    "Software 3": {
+        "name": "Linux",
+        "users in mln": 32.8,
+        "year": 1991,
+        "is_popular": true
+
+    }
+
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<examples>
+    <software id="1">
+        <name>macOS</name>
+        <producer>Apple Inc.</producer>
+        <year>2001</year>
+        <version>15.1</version>
+    </software>
+    <software id="2">
+        <name>Windows</name>
+        <producer>Microsoft</producer>
+        <year>1985</year>
+        <version>24H2</version>
+    </software>
+    <software id="3">
+        <name>Linux</name>
+        <producer>Community contributors</producer>
+        <year>1991</year>
+        <version>22</version>
+    </software>
+
+</examples>
